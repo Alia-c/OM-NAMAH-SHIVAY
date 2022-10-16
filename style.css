@@ -1,0 +1,21 @@
+.object-center  {
+    object-fit: contain !important; 
+}
+
+.px-2 {
+    height: 5rem;
+}
+
+.container_nav {
+    height: 5rem;
+}
+
+.mr-3 {
+    height: 80px !important;
+    margin-left: -8px !important;
+}
+
+.mr-30{
+    height: 108px !important;
+    margin-left: -23px !important;
+}
